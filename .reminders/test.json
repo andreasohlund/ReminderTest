@@ -1,0 +1,7 @@
+{
+  "title": "My first reminder",
+  "message": "hello world!",
+  "assignee": "johndoe",
+  "date": "2020-01-01",
+  "interval": 3
+}
